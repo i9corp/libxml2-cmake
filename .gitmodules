@@ -1,0 +1,3 @@
+[submodule "third-party/libxml2"]
+	path = third-party/libxml2
+	url = https://github.com/i9corp/libxml2.git
