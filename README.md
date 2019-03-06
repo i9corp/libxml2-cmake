@@ -6,10 +6,10 @@ Para compilações no Windows é necessário, configurar o a libxml2 para isso a
     git submodule update --init --recursive
 </pre>
 
-Entre no diretório third-party/libxml2/win32 e execute o seguinte comando
+Entre no diretório third-party/libxml2/win32 e execute o seguinte comando (usando o cmd do windows)
 
 <pre>
-cscript.exe win32/configure.js
+cscript.exe configure.js
 </pre>
 
 Após executar o comando o sistema ira criar os demais arquivos necessários para o seu projeto compilar.
